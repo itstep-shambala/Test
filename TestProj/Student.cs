@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestProj
 {
-    class Student
+    class Student:User
     {
         public string group;
     }
